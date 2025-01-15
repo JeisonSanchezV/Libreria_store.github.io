@@ -11,13 +11,13 @@ document.addEventListener('DOMContentLoaded', function () {
             name: "Producto 2",
             description: "Descripción breve del producto 2.",
             image: "producto2.jpg",
-            whatsappLink: "https://wa.me/1234567890?text=Estoy interesado en Psicoanalista"
+            whatsappLink: "https://wa.me/3115412266?text=Estoy interesado en Psicoanalista"
         },
         {
             name: "Producto 3",
             description: "Descripción breve del producto 3.",
             image: "producto3.jpg",
-            whatsappLink: "https://wa.me/1234567890?text=Estoy interesado en Producto 3"
+            whatsappLink: "https://wa.me/3115412266?text=Estoy interesado en Producto 3"
         },
         {
             name: "Producto 4",
